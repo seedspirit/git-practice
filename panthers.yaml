@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> c0b91a1 (Edit Panthers)
 
 members:
 - Freddie
